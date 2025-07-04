@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Piplip/Piplip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Khanh Du Nguyen, a passionate software developer with strong expertise in Spring Boot & Java, and a growing interest in React and Next.js.
 
-Here are some ideas to get you started:
+### 🚀 Standout Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Appointment Management System**
+  - [medicare-be](https://github.com/Piplip/medicare-be) (Spring Boot Backend)
+  - [medicare-fe](https://github.com/Piplip/medicare-fe) (React Frontend)
+
+- **Event Management & Ticketing System (Microservices)**
+  - [tixery](https://github.com/Piplip/tixery) (Microservices Backend)
+  - [tixery-fe](https://github.com/Piplip/tixery-fe) (Frontend)
+
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/khanh-du-nguyen-1b1106282/)
+- [Personal Portfolio](https://nkd-zeta.vercel.app)
+
+### 💡 Favorite Quote
+
+> "The best way to predict the future is to create it."
+
+---
+Feel free to reach out for collaboration or just to talk tech!
