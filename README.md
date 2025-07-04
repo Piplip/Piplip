@@ -45,7 +45,7 @@ Hi! I'm <b>Khanh Du Nguyen</b>, a passionate software developer with strong expe
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,materialui,microservices,jooq,js,postgresql,mysql,cassandra,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,materialui,js,vite,postgresql,mysql,cassandra,git,github,docker" />
 </p>
 
 ---
