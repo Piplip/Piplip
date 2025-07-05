@@ -15,7 +15,7 @@ Hi! I'm <b>Khanh Du Nguyen</b>, a passionate software developer with strong expe
 
 ---
 
-### 🚀 Standout Projects
+### 🚀 My Projects
 
 <table>
   <tr>
