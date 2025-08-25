@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Hi! I'm <b>Khanh Du Nguyen</b>, a passionate software developer with strong expertise in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java & Spring Boot, and a growing love for <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js.
+Hi! I'm <b>Khanh Du Nguyen</b>, a passionate software developer with strong expertise in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java & Spring Boot, and a growing love for <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/>.
 
 ---
 
