@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=435&lines=Spring+Boot+%26+Java+developer;Passionate+about+building+impactful+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=435&lines=Spring+Boot+%26+Java+developer;Passionate+about+building+apps" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hi! I'm <b>Khanh Du Nguyen</b>, a passionate software developer with strong expertise in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java & Spring Boot, and a growing love for <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/>.
+Hi! I'm <b>Khanh Du Nguyen</b>, a passionate software developer with expertise in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java & Spring Boot, and a growing love for <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/>.
 
 ---
 
