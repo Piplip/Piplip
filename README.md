@@ -1,6 +1,6 @@
 <!-- Banner image (replace with your own or a themed one for more personality) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:38E1AE&height=200&section=header&text=Khanh%20Du%20Nguyen&fontSize=40&animation=fadeIn&fontAlignY=40" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:38E1AE&height=200&section=header&text=Nguyen%20Khanh%20Du&fontSize=40&animation=fadeIn&fontAlignY=40" alt="header" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Hi! I'm <b>Khanh Du Nguyen</b>, a passionate software developer with expertise in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java & Spring Boot, and a growing love for <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/>.
+Hi! I'm <b>Nguyen Khanh Du</b>, a passionate software developer with expertise in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java & Spring Boot, and a growing love for <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/>.
 
 ---
 
