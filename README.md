@@ -15,33 +15,6 @@ Hi! I'm <b>Khanh Du Nguyen</b>, a passionate software developer with strong expe
 
 ---
 
-### 🚀 My Projects
-
-<table>
-  <tr>
-    <td align="center"><b>Appointment Management System</b><br/>
-      <a href="https://github.com/Piplip/medicare-be">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piplip&repo=medicare-be&theme=react" width="350"/>
-      </a>
-      <a href="https://github.com/Piplip/medicare-fe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piplip&repo=medicare-fe&theme=react" width="350"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Event Management & Ticketing System (Microservices)</b><br/>
-      <a href="https://github.com/Piplip/tixery">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piplip&repo=tixery&theme=react" width="350"/>
-      </a>
-      <a href="https://github.com/Piplip/tixery-fe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piplip&repo=tixery-fe&theme=react" width="350"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
